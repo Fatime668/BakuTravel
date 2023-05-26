@@ -1,0 +1,19 @@
+{
+    "translation": {
+      "information": "Məlumat",
+      "Map": "Xəritə",
+      "openmap": "Xəritədə Aç",
+      "Saved": "Saxlanılmışlar",
+      "search": "🔍  Mekan adi ile axtaris et",
+      "settings": "Ayarlar",
+      "selectlang": "Dili seçin",
+      "change language": "Dili dəyişmək",
+      "Go To Map" : "Xeritede goster",
+      "No Saved Items Yet":"Arzu olunanlar siyahisi bosdur",
+      " Geolocation is disabled" : "Geolokasiya deaktivdir!",
+      "To improve the application, enable geolocation in the settings.":"Applikasiyani tam islek veziyyete getirmek ucun geoloksiyani aktiv etmeniz tovsiyye olunur",
+      "Open Settings":"Ayarlari acin",
+      "change theme":"Temani deyisin",
+      "Next":"Novbeti"
+    }
+  }

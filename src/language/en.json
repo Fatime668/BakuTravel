@@ -1,0 +1,19 @@
+{
+    "translation": {
+      "information": "imnformation",
+      "Map": "Map",
+      "openmap": "Go to Map",
+      "Saved": "Saved",
+      "search": "🔍  Search by items",
+      "settings": "Settings",
+      "selectlang": "Select language",
+"change language": "Change Language",
+"Go To Map" : "Go To Map",
+"No Saved Items":"No saved items Yet",
+" Geolocation is disabled" : " Geolocation is disabled",
+"To improve the application, enable geolocation in the settings.":"To improve the application, enable geolocation in the settings.",
+"Open Settings":"Open Settings",
+"change theme":"change theme",
+"Next":"Next"
+    }
+  }
